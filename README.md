@@ -1,6 +1,6 @@
 ﻿# PWA-React 
 [![pwa-react](/assets/img/pwa-react-logo.png)](https://facebook.github.io/react/)
-### A Boilerplate Progressive Web Apps and [React](https://react.org/)
+### A Boilerplate [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) and [React](https://react.org/)
 <br/> 
 ## Install 
 
