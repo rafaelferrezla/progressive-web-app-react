@@ -11,4 +11,4 @@ git clone https://github.com/rafaelferrezla/progressive-web-app-react.git your-p
 ```
 Enjoy!.
  ## License 
- MIT © [Rafael Ferrez.](https://github.com/rafaelferrezla)
+  © [Rafael Ferrez.](https://github.com/rafaelferrezla)
